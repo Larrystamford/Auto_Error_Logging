@@ -3,4 +3,4 @@ Using REST APIS, repeated errors will automatically be logged into the database 
 
 Src -> React front-end components
 Sample.js -> Error simulation
-Models & 
+Models & routes -> API calls
